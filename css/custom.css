@@ -1,0 +1,39 @@
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+
+.bg { 
+  /* The image used */
+  background-image: url("../img/background2.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.resume-date{
+	min-width: 14rem;
+}
+
+.resume-content{
+	max-width: 200rem;
+}
+
+.dev-icons {
+  font-size: 3rem;
+}
+
+.dev-icons .list-inline-item i:hover {
+  color: #BD5D38;
+}
+
+.blackText{
+	color: black;
+}
